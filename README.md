@@ -1,5 +1,5 @@
 # Overall Analysis of Fortune 50 companies and Analysis of Job Satisfaction determinants in Fortune 50 companies using Indeed’s Employee Reviews. 
-Author: whisper
+Author: Bishal Sainju
 
 Please check the website in <span style='color: red'>Firefox</span>
 ### [Project Website](https://helenguohx.github.io/whisper.github.io/home.html)
